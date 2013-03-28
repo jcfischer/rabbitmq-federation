@@ -1,0 +1,8 @@
+source 'https://rubygems.org'
+
+gem 'amqp', git: 'git://github.com/ruby-amqp/amqp.git'
+
+gem 'json'
+
+gem 'uuid'
+gem 'awesome_print'
